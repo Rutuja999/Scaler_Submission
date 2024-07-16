@@ -1,0 +1,1 @@
+SELECT original_title, tagline, director FROM movies ORDER BY popularity DESC limit 5;
